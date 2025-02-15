@@ -3,9 +3,9 @@
 # trash-cli-git                                        # cli to manage trash files
 # libinput-gestures                                    # actions touchpad gestures using libinput
 # gestures                                             # gui for libinput-gestures
-wttrbar                                                # for weather
-python-requests|wttrbar                                # script dependency
-ddccui                                                 # GUI to control brightness for external monitors
+#wttrbar                                                # for weather
+#python-requests|wttrbar                                # script dependency
+#ddccui                                                 # GUI to control brightness for external monitors
 # hyprgui-bin                                          # GUI for hyprland configuration // might mess your userprefs but convenient // Just disappeared
 # swappy                                               # screenshot editor, DEPRECATED in favor for satty
 
@@ -18,9 +18,9 @@ xdg-desktop-portal-gtk                                 # xdg desktop portal usin
 # emote                                                # emoji picker gtk3
 
 # --------------------------------------------------- // Gaming
-steam                                                  # gaming platform
-gamemode                                               # daemon and library for game optimizations
-mangohud                                               # system performance overlay
+#steam                                                  # gaming platform
+#gamemode                                               # daemon and library for game optimizations
+#mangohud                                               # system performance overlay
 # gamescope                                            # micro-compositor for gaming
 # lutris                                               # Lutris is an open source gaming platform for Linux
 
@@ -30,7 +30,7 @@ spotify                                                # proprietary music strea
 spicetify-cli                                          # cli to customize spotify client
 
 # --------------------------------------------------- // Apps
-# neovim                                               # vim based text editor
+neovim                                               # vim based text editor
 
 # --------------------------------------------------- // Shell
 # oh-my-zsh-git|zsh                                      # Optional plugin manager for zsh

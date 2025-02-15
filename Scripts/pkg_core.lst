@@ -10,9 +10,6 @@ pavucontrol                                            # pulseaudio volume contr
 pamixer                                                # pulseaudio cli mixer
 networkmanager                                         # network manager
 network-manager-applet                                 # network manager system tray utility
-bluez                                                  # bluetooth protocol stack
-bluez-utils                                            # bluetooth utility cli
-blueman                                                # bluetooth manager gui
 brightnessctl                                          # screen brightness control
 udiskie                                                # manage removable media
 
