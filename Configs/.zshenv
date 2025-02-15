@@ -206,7 +206,18 @@ if [ -t 1 ];then
         .3='cd ../../..' \
         .4='cd ../../../..' \
         .5='cd ../../../../..' \
-        mkdir='mkdir -p' # Always mkdir a path (this doesn't inhibit functionality to make a single dir)
+        mkdir='mkdir -p' \
+       cleanup='sudo pacman -Rns (pacman -Qtdq)' \
+        jctl="journalctl -p 3 -xb" \
+        rip="expac --timefmt='%Y-%m-%d %T' '%l\t%n %v' | sort | tail -200 | nl" \
+        list="sudo pacman -Qqe" \
+        listt="sudo pacman -Qqet" \
+        listaur="sudo pacman -Qqem" \
+        yta-aac="yt-dlp --extract-audio --audio-format aac "  \ 
+        yta-best="yt-dlp --extract-audio --audio-format best "  \
+        yta-flac="yt-dlp --extract-audio --audio-format flac " \
+        yta-mp3="yt-dlp --extract-audio --audio-format mp3 " \
+        ytv-best="yt-dlp -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/bestvideo+bestaudio' --merge-output-format mp4 "
 
 
     # Load plugins
