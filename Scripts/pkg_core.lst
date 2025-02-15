@@ -70,6 +70,7 @@ nwg-displays                                           # monitor management util
 mpv
 mpv-mpris
 yt-dlp
+micro
 # --------------------------------------------------- // Shell
 eza|zsh                                                # file lister for zsh
 # oh-my-zsh-git|zsh                                    #  plugin manager for zsh (Optional) // Moved to pkg_extra.lst
