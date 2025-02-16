@@ -1,6 +1,6 @@
 #!/bin/bash
 
-mDIR="$HOME/Music/"
+mDIR="$HOME/Müzik/"
 
 populate_local_music() {
   local_music=()
