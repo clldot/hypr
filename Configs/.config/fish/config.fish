@@ -10,6 +10,17 @@ alias ls='eza -1   --icons=auto' # short list
 alias ll='eza -lha --icons=auto --sort=name --group-directories-first' # long list all
 alias ld='eza -lhD --icons=auto' # long list dirs
 alias lt='eza --icons=auto --tree' # list folder as tree
+alias cleanup='sudo pacman -Rns (pacman -Qtdq)' 
+alias jctl="journalctl -p 3 -xb" 
+alias rip="expac --timefmt='%Y-%m-%d %T' '%l\t%n %v' | sort | tail -200 | nl" 
+alias list="sudo pacman -Qqe" 
+alias listt="sudo pacman -Qqet" 
+alias  listaur="sudo pacman -Qqem" 
+alias yta-aac="yt-dlp --extract-audio --audio-format aac "  
+alias  yta-best="yt-dlp --extract-audio --audio-format best "  
+alias  yta-flac="yt-dlp --extract-audio --audio-format flac " 
+alias  yta-mp3="yt-dlp --extract-audio --audio-format mp3 " 
+alias ytv-best="yt-dlp -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/bestvideo+bestaudio' --merge-output-format mp4 "
 
 # Handy change dir shortcuts
 abbr .. 'cd ..'
