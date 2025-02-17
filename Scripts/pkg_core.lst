@@ -13,6 +13,7 @@ network-manager-applet                                 # network manager system 
 brightnessctl                                          # screen brightness control
 udiskie                                                # manage removable media
 reflector
+btop
 # --------------------------------------------------- // Display Manager
 sddm                                                   # display manager for KDE plasma
 qt5-quickcontrols                                      # for sddm theme ui elements
@@ -48,7 +49,11 @@ ffmpegthumbs                                           # for dolphin video thumb
 kde-cli-tools                                          # for dolphin file type defaults
 libnotify                                              # for notifications
 noto-fonts-emoji                                       # emoji font
-
+tumbler
+ffmpegthumbnailer
+thunar
+thunar-archive-plugin
+xfce4-session
 # --------------------------------------------------- // Theming
 nwg-look                                               # gtk configuration tool
 qt5ct                                                  # qt5 configuration tool
