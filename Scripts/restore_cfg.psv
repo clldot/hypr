@@ -75,7 +75,6 @@ S|${HOME}/.config|kdeglobals|dolphin
 S|${HOME}/.local/share/kio/servicemenus|hydewallpaper.desktop|dolphin
 S|${HOME}/.local/share/kxmlgui5|dolphin|dolphin
 S|${HOME}/.local/share|dolphin|dolphin
-S|${HOME}/.config|Thunar|Thunar|thunar
 
 
  Input 
@@ -83,7 +82,6 @@ S|${HOME}/.config|Thunar|Thunar|thunar
  Wayland 
 P|${HOME}/.config|spotify-flags.conf|spotify
 P|${HOME}/.config|code-flags.conf|code
-P|${HOME}/.config|code-flags.conf|visual-studio-code-bin
 P|${HOME}/.config|electron-flags.conf|electron
 
  Notifications 

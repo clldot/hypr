@@ -49,9 +49,6 @@ ffmpegthumbs                                           # for dolphin video thumb
 kde-cli-tools                                          # for dolphin file type defaults
 libnotify                                              # for notifications
 noto-fonts-emoji                                       # emoji font
-thunar
-thunar-archive-plugin
-xfce4-session
 # --------------------------------------------------- // Theming
 nwg-look                                               # gtk configuration tool
 qt5ct                                                  # qt5 configuration tool
@@ -67,7 +64,7 @@ kitty                                                  # terminal
 dolphin                                                # kde file manager
 ark                                                    # kde file archiver
 unzip                                                  # extracting zip files
-vim                                                    # terminal text editor
+vim                                                   # terminal text editor
 code                                                   # ide text editor
 nwg-displays                                           # monitor management utility
 mpv
@@ -78,6 +75,8 @@ expac
 kio-admin
 ncdu
 evince
+eog
+gedit
 spotify
 spotify-adblock-git
 onlyoffice-bin
