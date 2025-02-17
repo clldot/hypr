@@ -1,16 +1,0 @@
-id=MagickPixelCache
-magick-signature=762599890
-class=DirectClass colors=0 alpha-trait=Undefined
-number-channels=1 number-meta-channels=0 channel-mask=0x0000000007ffffff
-columns=1000 rows=667 depth=8
-colorspace=Gray
-compression=JPEG quality=90
-page=1000x667+0+0
-gamma=0.454545
-date:create=2025-02-17T19:28:57+00:00
-date:modify=2025-02-17T19:28:57+00:00
-date:timestamp=2025-02-17T19:28:59+00:00
-jpeg:colorspace=2
-jpeg:sampling-factor=2x2,1x1,1x1
-
-:
