@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/enc bash
 
 
 # Yerel müzik klasörü dizini
