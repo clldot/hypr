@@ -37,6 +37,8 @@ N|Y|${HOME}/.config|code-flags.conf|code
 N|Y|${HOME}/.config|spotify-flags.conf|spotify
 Y|Y|${HOME}/.config|dunst|dunst
 N|Y|${HOME}/.config|fish|fish
+N|Y|${HOME}/.config|fish|config.fish|fish
+N|Y|${HOME}/.config|micro|settings.json|micro
 Y|Y|${HOME}/.config/hyde|wallbash|hyprland
 N|Y|${HOME}/.config/hyde|themes|hyprland
 Y|Y|${HOME}/.local/share|hyde|hyprland

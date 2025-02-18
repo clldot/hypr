@@ -64,6 +64,9 @@ P|${HOME}/.config/kitty|kitty.conf|kitty
 
  Shell 
 P|${HOME}/.config|fish|fish
+S|${HOME}/.config|fish|config.fish|fish
+
+
 
  File Explorer 
 P|${HOME}/.local/state|dolphinstaterc|dolphin
@@ -98,3 +101,6 @@ S|${HOME}/.config/hypr|hyprlock|hyprlock
 
  Idle daemon 
 P|${HOME}/.config/hypr|hypridle.conf|hypridle
+
+S|${HOME}/.config|micro|micro
+
