@@ -12,7 +12,7 @@ networkmanager                                         # network manager
 network-manager-applet                                 # network manager system tray utility
 brightnessctl                                          # screen brightness control
 udiskie                                                # manage removable media
-
+downgrade
 # --------------------------------------------------- // Display Manager
 sddm                                                   # display manager for KDE plasma
 qt5-quickcontrols                                      # for sddm theme ui elements
@@ -79,6 +79,7 @@ spotify-adblock-git
 onlyoffice-bin
 reflector
 btop
+fish
 
 #eza|zsh                                                # file lister for zsh
 # oh-my-zsh-git|zsh                                    #  plugin manager for zsh (Optional) // Moved to pkg_extra.lst
