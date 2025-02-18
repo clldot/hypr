@@ -47,7 +47,6 @@ S|${HOME}/.config|qt6ct|qt6ct
 S|${HOME}/.config/hyde|wallbash|hyprland
 S|${HOME}/.config/hyde|themes|hyprland
 S|${HOME}/.config/hypr|animations|hyprland  
-S|${HOME}/.config|btop|btop
 O|${HOME}/.local/share|hyde|hyprland
 O|${HOME}/.local/lib|hyde|hyprland
 
@@ -65,6 +64,7 @@ P|${HOME}/.config/kitty|kitty.conf|kitty
 
  Shell 
 P|${HOME}/.config|fish|fish
+S|${HOME}/.config|fish|config.fish|fish
 
  File Explorer 
 P|${HOME}/.local/state|dolphinstaterc|dolphin

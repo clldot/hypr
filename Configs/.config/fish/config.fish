@@ -22,6 +22,7 @@ alias  yta-flac="yt-dlp --extract-audio --audio-format flac "
 alias  yta-mp3="yt-dlp --extract-audio --audio-format mp3 " 
 alias ytv-best="yt-dlp -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/bestvideo+bestaudio' --merge-output-format mp4 "
 alias mirror="sudo reflector --protocol https --latest 10 --sort rate --save /etc/pacman.d/mirrorlist"
+alias mirrorup="sudo reflector --verbose --latest 10  --age 6 --sort rate --save /etc/pacman.d/mirrorlist"
 
 # Handy change dir shortcuts
 abbr .. 'cd ..'

@@ -12,8 +12,7 @@ networkmanager                                         # network manager
 network-manager-applet                                 # network manager system tray utility
 brightnessctl                                          # screen brightness control
 udiskie                                                # manage removable media
-reflector
-btop
+
 # --------------------------------------------------- // Display Manager
 sddm                                                   # display manager for KDE plasma
 qt5-quickcontrols                                      # for sddm theme ui elements
@@ -36,7 +35,6 @@ satty                                                  # Modern Screenshot Annot
 cliphist                                               # clipboard manager
 hyprsunset                                             # blue light filter
 
-# --------------------------------------------------- // Dependencies
 polkit-gnome                                           # authentication agent
 xdg-desktop-portal-hyprland                            # xdg desktop portal for hyprland
 pacman-contrib                                         # for system update check
@@ -49,7 +47,7 @@ ffmpegthumbs                                           # for dolphin video thumb
 kde-cli-tools                                          # for dolphin file type defaults
 libnotify                                              # for notifications
 noto-fonts-emoji                                       # emoji font
-# --------------------------------------------------- // Theming
+
 nwg-look                                               # gtk configuration tool
 qt5ct                                                  # qt5 configuration tool
 qt6ct                                                  # qt6 configuration tool
@@ -64,13 +62,12 @@ kitty                                                  # terminal
 dolphin                                                # kde file manager
 ark                                                    # kde file archiver
 unzip                                                  # extracting zip files
-vim                                                   # terminal text editor
+micro                                                   # terminal text editor
 code                                                   # ide text editor
 nwg-displays                                           # monitor management utility
 mpv
 mpv-mpris
 yt-dlp
-micro
 expac
 kio-admin
 ncdu
@@ -80,9 +77,9 @@ gedit
 spotify
 spotify-adblock-git
 onlyoffice-bin
-xdg-desktop-portal-gtk                                 # xdg desktop portal using gtk
+reflector
+btop
 
-# --------------------------------------------------- // Shell
 #eza|zsh                                                # file lister for zsh
 # oh-my-zsh-git|zsh                                    #  plugin manager for zsh (Optional) // Moved to pkg_extra.lst
 #zsh-theme-powerlevel10k-git|zsh                        # theme for zsh
@@ -90,7 +87,4 @@ xdg-desktop-portal-gtk                                 # xdg desktop portal usin
 eza|fish                                               # file lister for fish
 starship|fish                                          # customizable shell prompt
 fastfetch                                              # system information fetch tool
-
-# --------------------------------------------------- // HyDE
-# hyde-cli-git                                           # cli tool to manage hyde \\ Deprecated for HyDE
 hypridle                                               # idle daemon
