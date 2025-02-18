@@ -64,7 +64,6 @@ P|${HOME}/.config/kitty|kitty.conf|kitty
 
  Shell 
 P|${HOME}/.config|fish|fish
-S|${HOME}/.config|fish|config.fish|fish
 
  File Explorer 
 P|${HOME}/.local/state|dolphinstaterc|dolphin
