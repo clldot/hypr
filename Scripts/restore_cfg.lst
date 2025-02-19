@@ -32,24 +32,28 @@ This is a punnet square of the flags, But the output are unexpected
 |-------------------|-----------------------|-------------|
 
 
+N|Y|${HOME}|.zshrc .p10k.zsh|zsh oh-my-zsh-git zsh-theme-powerlevel10k pokemon-colorscripts-git
+N|Y|${HOME}/.config/Code/User|settings.json|visual-studio-code-bin
 N|Y|${HOME}/.config/Code - OSS/User|settings.json|code
+N|Y|${HOME}/.config|code-flags.conf|visual-studio-code-bin
 N|Y|${HOME}/.config|code-flags.conf|code
 N|Y|${HOME}/.config|spotify-flags.conf|spotify
 Y|Y|${HOME}/.config|dunst|dunst
 N|Y|${HOME}/.config|fish|fish
-N|Y|${HOME}/.config|fish|config.fish|fish
+N|Y|${HOME}/.config|lsd|lsd
 Y|Y|${HOME}/.config/hyde|wallbash|hyprland
-N|Y|${HOME}/.config/hyde|themes|hyprland
 Y|Y|${HOME}/.local/share|hyde|hyprland
 N|Y|${HOME}/.config/hypr|nvidia.conf|hyprland nvidia-utils
 N|Y|${HOME}/.config/hypr|hyde.conf keybindings.conf monitors.conf userprefs.conf animations.conf hyprland.conf windowrules.conf workspaces.conf animations themes|hyprland
 Y|Y|${HOME}/.local/lib|hyde|hyprland
 Y|Y|${HOME}/.config|kitty|kitty
 Y|Y|${HOME}/.config|Kvantum|kvantum
+Y|Y|${HOME}/.config|MangoHud|mangohud
 Y|Y|${HOME}/.config|fastfetch|fastfetch
 Y|Y|${HOME}/.config|qt5ct|qt5ct
 Y|Y|${HOME}/.config|qt6ct|qt6ct
 Y|Y|${HOME}/.config|rofi|rofi
+Y|Y|${HOME}/.config|swaylock|swaylock-effects
 Y|Y|${HOME}/.config/waybar|modules config.jsonc style.css theme.css|waybar
 N|Y|${HOME}/.config/waybar|config.ctl|waybar
 Y|Y|${HOME}/.config|wlogout|wlogout
@@ -61,5 +65,5 @@ N|Y|${HOME}/.config|baloofilerc|dolphin
 Y|Y|${HOME}/.config/menus|applications.menu|dolphin
 Y|Y|${HOME}/.local/share|dolphin|dolphin
 Y|Y|${HOME}/.local/share/kxmlgui5|dolphin|dolphin
-Y|Y|${HOME}/.local/share/kio/servicemenus|hydewallpaper.desktop|dolphi
-
+Y|Y|${HOME}/.local/share/kio/servicemenus|hydewallpaper.desktop|dolphin
+N|Y|${HOME}/.config|libinput-gestures.conf|libinput-gestures

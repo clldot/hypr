@@ -35,6 +35,7 @@ satty                                                  # Modern Screenshot Annot
 cliphist                                               # clipboard manager
 hyprsunset                                             # blue light filter
 
+# --------------------------------------------------- // Dependencies
 polkit-gnome                                           # authentication agent
 xdg-desktop-portal-hyprland                            # xdg desktop portal for hyprland
 pacman-contrib                                         # for system update check
@@ -48,6 +49,7 @@ kde-cli-tools                                          # for dolphin file type d
 libnotify                                              # for notifications
 noto-fonts-emoji                                       # emoji font
 
+# --------------------------------------------------- // Theming
 nwg-look                                               # gtk configuration tool
 qt5ct                                                  # qt5 configuration tool
 qt6ct                                                  # qt6 configuration tool
@@ -89,4 +91,7 @@ meld
 eza|fish                                               # file lister for fish
 starship|fish                                          # customizable shell prompt
 fastfetch                                              # system information fetch tool
+
+# --------------------------------------------------- // HyDE
+# hyde-cli-git                                           # cli tool to manage hyde \\ Deprecated for HyDE
 hypridle                                               # idle daemon
