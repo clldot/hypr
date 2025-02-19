@@ -1,2 +1,2 @@
-##my hyprland dotfiles
-###archlinux 
+## my hyprland dotfiles
+### archlinux
