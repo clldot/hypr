@@ -17,12 +17,14 @@ Multi-language README support
 [![en](https://img.shields.io/badge/lang-en-red.svg)](../../README.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](README.es.md)
 [![de](https://img.shields.io/badge/lang-de-black.svg)](README.de.md)
+[![nl](https://img.shields.io/badge/lang-nl-green.svg)](README.nl.md)
 
 <div align="center">
 
 <br>
 
 <a href="#installation"><kbd> <br> 安装 <br> </kbd></a>&ensp;&ensp;
+<a href="#updating"><kbd> <br> 更新 <br> </kbd></a>&ensp;&ensp;
 <a href="#themes"><kbd> <br> 主题 <br> </kbd></a>&ensp;&ensp;
 <a href="#styles"><kbd> <br> 风格 <br> </kbd></a>&ensp;&ensp;
 <a href="KEYBINDINGS.zh.md"><kbd> <br> 按键映射 <br> </kbd></a>&ensp;&ensp;
@@ -43,7 +45,7 @@ Multi-language README support
 </div>
 
 看这里了解完整说明：
-[Journey to HyDE and beyond](./Hyprdots-to-HyDE.md)
+[Journey to HyDE and beyond](../../Hyprdots-to-HyDE.md)
 
 <!--
 <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscordapp.com%2Fapi%2Finvites%2FmT5YqjaJFh%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&suffix=%20members&style=for-the-badge&logo=discord&logoSize=auto&label=The%20HyDe%20Project&labelColor=ebbcba&color=c79bf0">
@@ -99,6 +101,11 @@ View installation instructions for HyDE in [Hyde-cli - Usage](https://github.com
 -->
 
 在安装脚本运行完成后请重启，首次启动时您将看到SDDM登录界面（或者黑屏）。更多细节请看[安装 wiki](https://github.com/HyDE-Project/HyDE/wiki/installation)
+
+<div align="right">
+  <br>
+  <a href="#-design-by-t2"><kbd> <br> 🡅 <br> </kbd></a>
+</div>
 
 <a id="updating"></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&width=435&lines=UPDATING" width="450"/>
