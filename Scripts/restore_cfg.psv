@@ -109,5 +109,3 @@ S|${HOME}/.config/hypr|hyprlock|hyprlock
 
  Idle daemon 
 P|${HOME}/.config/hypr|hypridle.conf|hypridle
-
-S|${HOME}/.config|micro|micro
