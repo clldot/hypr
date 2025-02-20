@@ -4,7 +4,7 @@
 
 # Variables
 mDIR="$HOME/Müzik/"
-iDIR="$HOME/.config/swaync/icons"
+iDIR="$HOME/.config/dunst/"
 rofi_theme="rofi -dmenu -theme ~/.local/share/hyde/rofi/themes/style_10.rasi"
 rofi_theme_1="rofi -dmenu -theme ~/.local/share/hyde/rofi/themes/style_10.rasi"
 
