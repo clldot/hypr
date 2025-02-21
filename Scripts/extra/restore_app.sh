@@ -23,6 +23,7 @@ fi
 sudo sed -i "/^Icon=/c\Icon=adjust-colors" /usr/share/applications/nwg-look.desktop
 
 
+
 #// firefox
 
 if pkg_installed firefox; then
