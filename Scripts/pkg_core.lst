@@ -63,20 +63,15 @@ kitty                                                  # terminal
 dolphin                                                # kde file manager
 ark                                                    # kde file archiver
 unzip                                                  # extracting zip files
-micro                                                   # terminal text editor
-visual-studio-code-bin                                     # ide text editor
+micro                                                  # terminal text editor
+visual-studio-code-bin                                  # ide text editor
 nwg-displays                                           # monitor management utility
-mpv
-mpv-mpris
-yt-dlp
 expac
 kio-admin
 ncdu
 evince
 eog
 gedit
-spotify
-spotify-adblock-git
 reflector
 btop
 fish
@@ -94,3 +89,12 @@ fastfetch                                              # system information fetc
 # --------------------------------------------------- // HyDE
 # hyde-cli-git                                           # cli tool to manage hyde \\ Deprecated for HyDE
 hypridle                                               # idle daemon
+
+# --------------------------------------------------- // Music
+cava                                                   # audio visualizer
+spotify                                                # proprietary music streaming service
+spicetify-cli                                          # cli to customize spotify client
+#spotify-adblock-git
+mpv         
+mpv-mpris
+yt-dlp
